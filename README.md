@@ -85,7 +85,7 @@ The goal is to share knowledge effectively while avoiding the spread of misinter
 
 ## Navigation
 
-- [📚 Table of Contents](Table-of-Contents.md) - Complete list of all essays organized by category
+- [📚 Table of Contents](essays/README.md) - Complete list of all essays organized by category
 
 ## Categories
 
