@@ -1,0 +1,28 @@
+# Investment Essays
+
+A collection of essays on investment strategy, risk management, and market psychology.
+
+- [Irrational Exuberance - Dancing with Optimism](001-irrational-exuberance.md)
+- [The Power of Weighted Average Scenario Planning](002-weighted-average-scenarios.md)
+- [The Folly of Blame: Lost Opportunity for Growth](003-learning-from-mistakes.md)
+- [얼마를 벌 것인가 - 대치동 현인의 오류 vs. 현실적 산수 ](004-investment-goals.md)
+- [Losses: A Natural Part of the Game](005-embracing-losses.md)
+- [The Zero That Always Finds You](006-managing-influences.md)
+- [Dealing with Market Stress: You Won't Be Young and Aggressive Forever](007-investment-stress-aging.md)
+- [The Hidden but Obvious Costs of Risk Management](008-cost-of-risk-management.md)
+- [Technical Analysis: The Fool's Gold of Trading](009-technical-analysis-fools-gold.md)
+- [Turning Around Bad Habits, Bad Reputation, and Bad Returns](010-turning-around-bad-habits.md)
+- [Why Do You Invest? How Can You Be a Good, Rational, Wise Investor?](011-why-invest.md)
+- [An Easy Way to Become a 10x Better Investor and Be Happier in Life](012-better-investor-happier-life.md)
+- [Why and How I'm Retiring Completely, Again](013-retiring-completely.md)
+- [Winning the Market Game: Strategy Against Sophon's Deception](014-winning-market-game.md)
+- [C.W.K's Ultimate Guide to Long-Term Vision Investing](015-ultimate-guide-long-term-vision.md)
+- [Navigating Investment Pitfalls: Managing Biases to Safeguard Your Portfolio](016-navigating-investment-pitfalls.md)
+- [History of Extinction: When the Market Catches Up to Reality](017-history-of-extinction.md)
+- [개인의 R&D 투자는 비용일까? 자산일까?](018-personal-rd-investment.md)
+- [기록이 미래의 그대에게 천군만마라는 이유](019-market-crash-patterns.md)
+- [The Puppeteers of Wall Street: AI's Grip on Financial Markets](020-puppeteers-wall-street.md)
+- [The Contrarian Paradox](021-contrarian-paradox.md)
+- [The Enduring Power of Plans and Principles](022-power-of-principles.md)
+- [When Obsessive-Compulsive Genius Founders Leave Their Companies](023-obsessive-genius-founders.md)
+- [Why We Need OCD Assholes in Leadership](024-ocd-leadership.md)
