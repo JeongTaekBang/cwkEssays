@@ -6,23 +6,40 @@ A collection of essays that will form a free online book, covering various topic
 
 한국어는 '대두족장' 캐릭터의 말투로 쓰여진 경우가 많으니 오해 없으시기 바랍니다. 
 
+## Main Sections
+
+📓️ [Table of Contents](essays/README.md) | 📓️ [AI](essays/ai/README.md) | 📓️ [Art](essays/art/README.md) | 📓️ [Life](essays/life/README.md) | 📓️ [Entertainment](essays/entertainment/README.md) | 📓️  [Investing](essays/investing/README.md)
+
 ## Selected Essays
 
-- [Why Only Reasoning-Focused Models Pass This Test: FOMO Riddle](essays/ai/001-reasoning-models-fomo-riddle.md)
-- [GPU Context Switching and Memory Management Issues in M2 Ultra Mac Studio: An Analysis](essays/ai/032-m2-ultra-mac-studio-gpu-issues.md)
-- [C.W.K's Ultimate Guide to Long-Term Vision Investing](essays/investing/015-ultimate-guide-long-term-vision.md)
-- [Sh*t Happens](essays/life/001-reflections-on-time.md)
-- [What Makes the Soulsborne Genre Unique](essays/entertainment/001-soulsborne-genre.md)
-- [The Land of Light and Shadow](essays/art/001-light-and-shadow.md)
+✍️ [Why Only Reasoning-Focused Models Pass This Test: FOMO Riddle](essays/ai/001-reasoning-models-fomo-riddle.md)
+
+✍️ [GPU Context Switching and Memory Management Issues in M2 Ultra Mac Studio: An Analysis](essays/ai/032-m2-ultra-mac-studio-gpu-issues.md)
+
+<details>
+<summary> Recent Additions </summary>
+
+✍️ [C.W.K's Ultimate Guide to Long-Term Vision Investing](essays/investing/015-ultimate-guide-long-term-vision.md)
+
+✍️ [Sh*t Happens](essays/life/001-reflections-on-time.md)
+
+✍️ [What Makes the Soulsborne Genre Unique](essays/entertainment/001-soulsborne-genre.md)
+
+✍️ [The Land of Light and Shadow](essays/art/001-light-and-shadow.md)
+
+</details>
 
 ## Who is C.W.K.?
 
 C.W.K. stands for Creative Works of Knowledge (Korean: 최완규), a tech enthusiast with over three decades of experience across various fields. Known as '대두족장' in Korean communities, I combine technical expertise with creative storytelling to share insights about technology, investing, and life.
 
 I'm the author of several free online books in both Korean and English, including comprehensive guides on PyTorch, MLX, and AI Mathematics. These works are freely available at:
-- GitHub: https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/
-- Website: https://cwkai.net
-- X: https://x.com/WankyuChoi
+
+- 🔗 GitHub: https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/
+
+- 🔗 Website: https://cwkai.net
+
+- 🔗 X: https://x.com/WankyuChoi
 
 My essays reflect a broad range of interests and experiences, from artificial intelligence to investment strategies, art, and gaming. While the topics vary, they share a common goal: to provide valuable insights while encouraging open discussion and diverse perspectives. 
 
@@ -33,16 +50,20 @@ While I aim to be respectful, I maintain my own perspective and writing style. I
 In the spirit of full transparency, I openly collaborate with various AI technologies in my writing and research process. This collaboration enhances my work while maintaining my authentic voice and original ideas. Here's how AI fits into my workflow:
 
 ### AI Language Models
+
 I regularly work with advanced language models including:
-- OpenAI's GPT-4o and its variants
-- Anthropic's Claude
-- Other state-of-the-art models as they become available
+
+- 🤖 OpenAI's GPT-4o and its variants
+- 🤖 Anthropic's Claude
+- 🤖 Other state-of-the-art models as they become available
 
 ### AI-Assisted Tools
+
 My writing process is helped by:
-- Cursor IDE for enhanced writing and coding
-- Various image generation models for visual content
-- PyTorch, MLX and other ML frameworks when needed
+
+- 💻 Cursor IDE for enhanced writing and coding
+- 🎨 Various image generation models for visual content
+- 🧮 PyTorch, MLX and other ML frameworks when needed
 
 While these AI tools assist with research, refinement, and technical implementation, all ideas, perspectives, and creative direction remain entirely my own. Think of these AI systems as sophisticated writing and research assistants - they help organize and refine my thoughts, but the core insights and narratives are mine.
 
@@ -52,10 +73,10 @@ This transparency about AI collaboration reflects my commitment to honest commun
 
 Consider this repository an "early access" version of a free online book. These essays, originally posted on X.com, are being collected, refined, and reorganized here. As with any early access content:
 
-- New essays are regularly added from X.com
-- Existing content may be significantly revised
-- Structure and organization will evolve
-- Some links may break during reorganization
+- 📝 New essays are regularly added from X.com
+- 🔄 Existing content may be significantly revised 
+- 🏗️ Structure and organization will evolve
+- 🔗 Some links may break during reorganization
 
 While you're welcome to read and reference this early version, please note its dynamic nature. Think of it as watching a free online book take shape, with all the ongoing refinements that entails.
 
@@ -90,14 +111,17 @@ The goal is to share knowledge effectively while avoiding the spread of misinter
 ## Categories
 
 ### Technical
+
 - [AI and Machine Learning](essays/ai/README.md) - Essays on artificial intelligence, machine learning architectures, and technical concepts
 - [Art](essays/art/README.md) - Exploration of visual arts and creative techniques
 
 ### Personal Development
+
 - [Life](essays/life/README.md) - Reflections on personal growth, time management, and general wisdom
 - [Investing](essays/investing/README.md) - Investment strategies, market analysis, and financial wisdom
 
 ### Entertainment & Culture
+
 - [Entertainment](essays/entertainment/README.md) - Analysis of games, media, and entertainment
 
 ## Structure
