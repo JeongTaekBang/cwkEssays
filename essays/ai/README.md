@@ -34,3 +34,4 @@ A collection of essays on artificial intelligence, machine learning, and their a
 - [Why the Heck Do We Need Causal Attention in Transformers, Anyway](030-causal-attention.md)
 - [Harnessing Fear as Your Compass in the AI Frontier: A Defense Against Misinformation](031-fear-as-compass.md)
 - [GPU Context Switching and Memory Management Issues in M2 Ultra Mac Studio: An Analysis](032-m2-ultra-mac-studio-gpu-issues.md)
+- [Working with GPT o1 to Resolve Elusive Network Issues](033-resolving-network-issues-with-gpt-o1.md)

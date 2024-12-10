@@ -12,6 +12,8 @@ A collection of essays that will form a free online book, covering various topic
 
 ## Selected Essays
 
+✍️ [Working with GPT o1 to Resolve Elusive Network Issues](033-resolving-network-issues-with-gpt-o1.md)
+
 ✍️ [Why Only Reasoning-Focused Models Pass This Test: FOMO Riddle](essays/ai/001-reasoning-models-fomo-riddle.md)
 
 ✍️ [GPU Context Switching and Memory Management Issues in M2 Ultra Mac Studio: An Analysis](essays/ai/032-m2-ultra-mac-studio-gpu-issues.md)
