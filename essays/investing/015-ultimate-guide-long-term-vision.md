@@ -313,7 +313,7 @@ Get accustomed to the costs and slippages in trading; they are integral to the g
 
 You know my stance on diversification: I don’t give a rat's ass when I’m confident in what I’m doing. If you're not confident in yourself, please, for your own good, get the fuck out.
 
-##Tax and Periodic Cashing
+## Tax and Periodic Cashing
 
 Paying taxes each year is essential for two reasons.
 
