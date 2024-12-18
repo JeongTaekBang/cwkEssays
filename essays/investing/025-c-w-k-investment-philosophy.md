@@ -65,7 +65,8 @@ https://x.com/WankyuChoi/status/1819501203216388304
 
 반대로 헤징을 한 사람들도 마찬가지야. 100% 현금이든 가중평균이든, 리스크가 제거됐다면 그 비용을 치러야 해. 리스크 제거를 위한 비용은 당연히 필요한 거니까. (솔직히 100% 현금 또는 올인은 둘 다 잘못이야. 10초만 짱구굴려도.)
 
-[Losses: A Natural Part of the Game](005-embracing-losses.md)
+Losses: A Natural Part of the Game
+https://x.com/WankyuChoi/status/1857238818191237299
 
 이 부분도 열중 아홉이 간과하는데... 투자는 사업이야. 사업에는 원가와 비용이 따르기 마련이야. 누가 나한테 벌어서 뭐하냐고 물으면 난 그 이유 중 하나가 넉넉한 비용 처리를 위해서라고 할 거야.
 
