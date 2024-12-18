@@ -18,6 +18,8 @@ Additional technical guides and resources are available in the following separat
 
 ## Selected Essays
 
+✍️ [대두족장 펀드 간단 운용 철학 - The C.W.K Investment Philosophy: A Personal Manifesto](essays/investing/025-c-w-k-investment-philosophy.md)
+
 ✍️ [C.W.K's Ultimate Guide to Long-Term Vision Investing](essays/investing/015-ultimate-guide-long-term-vision.md)
 
 ✍️ [Working with GPT o1 to Resolve Elusive Network Issues](essays/ai/033-resolving-network-issues-with-gpt-o1.md)

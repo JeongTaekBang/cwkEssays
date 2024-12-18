@@ -26,3 +26,4 @@ A collection of essays on investment strategy, risk management, and market psych
 - [The Enduring Power of Plans and Principles](022-power-of-principles.md)
 - [When Obsessive-Compulsive Genius Founders Leave Their Companies](023-obsessive-genius-founders.md)
 - [Why We Need OCD Assholes in Leadership](024-ocd-leadership.md)
+- [대두족장 펀드 간단 운용 철학 - The C.W.K Investment Philosophy: A Personal Manifesto](025-c-w-k-investment-philosophy.md)
