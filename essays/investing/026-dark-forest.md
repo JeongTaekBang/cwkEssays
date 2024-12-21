@@ -146,3 +146,9 @@ Every solution must be tailored to your individual level and circumstances. I ca
 I can only wish you good luck in your journey.
 
 Oh, and one final reminder - maintaining naive optimism in this environment would be... unwise, to say the least.
+
+ps. The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics
+https://amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845
+
+
+설마 언뜻 시대에 뒤쳐진 어리버리해보이는 저런 정치인들이 첨단 기술까지 동원한다고? 뭐 이딴 순진한 생각을 또 하실까봐... 진짜 공작을 펴는 애들은 전면에 있는 애들이 아니라니까. 여러분 눈에 보인다 싶으면, 죄다 바지사장이야.
