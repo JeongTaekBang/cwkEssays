@@ -1,5 +1,7 @@
 # 대두족장 펀드 간단 운용 철학 - The C.W.K Investment Philosophy: A Personal Manifesto
 
+https://github.com/neobundy/cwkEssays/blob/main/essays/investing/025-c-w-k-investment-philosophy.md
+
 오해가 싫어서 쓰는 글이야. 그러니 진짜 오해 마셔.
 
 난 그대들이 내 투자 자체에 관심 갖는 걸 바라지 않아. 
@@ -35,6 +37,8 @@
 그래도 최전방에서 두들겨 맞는 건 언제나 내가 먼저야. 그래야 시장 분위기를 읽을 수 있으니까. 그래서 규모도 내가 작고 비용도 많이 들어. 어떤 구조인지 이미 아실테고, 모른다면 졸업반 아닌 거고.
 
 가장 기본적인 전제는 100% 완벽이란 없다는 진리에서 출발해. 그대가 항상 100% 옳을 리 없다는 거야. 그래서 가중 평균 시나리오로 대응하라는 거지.
+
+[The Power of Weighted Average Scenario Planning](https://x.com/WankyuChoi/status/1851777570662158543)
 
 마켓타이밍과 달라. 시장 예측은 못해도 현상을 읽을 수 있어야 해. 뻔히 비이성적인 분위기인데 '난 마켓 타이머가 아니다. 그냥 죽치고 있자'는 건 방치 투기일 뿐, 장기 비전투자도 뭣도 아니야. 물론, 모르면... 아무짓도 안 하는 게 그나마 덜 다치기는 하는데, 이 또한 늘 그렇지는 않아. 그래서 시장이 쉽지 않은 거야.
 

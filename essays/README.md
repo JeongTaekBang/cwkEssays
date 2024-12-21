@@ -60,6 +60,8 @@
 - [The Enduring Power of Plans and Principles](investing/022-power-of-principles.md)
 - [When Obsessive-Compulsive Genius Founders Leave Their Companies](investing/023-obsessive-genius-founders.md)
 - [Why We Need OCD Assholes in Leadership](investing/024-ocd-leadership.md)
+- [대두족장 펀드 간단 운용 철학 - The C.W.K Investment Philosophy: A Personal Manifesto](investing/025-c-w-k-investment-philosophy.md)
+- [암흑의 숲 - 전쟁터, 정치판, 금융시장 그리고 AI](investing/026-dark-forest.md)
 
 
 ## Life Essays

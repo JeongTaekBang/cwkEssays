@@ -18,6 +18,8 @@ Additional technical guides and resources are available in the following separat
 
 ## Selected Essays
 
+✍️ [암흑의 숲 - 전쟁터, 정치판, 금융시장 그리고 AI](essays/investing/026-dark-forest.md)
+
 ✍️ [대두족장 펀드 간단 운용 철학 - The C.W.K Investment Philosophy: A Personal Manifesto](essays/investing/025-c-w-k-investment-philosophy.md)
 
 ✍️ [C.W.K's Ultimate Guide to Long-Term Vision Investing](essays/investing/015-ultimate-guide-long-term-vision.md)
